@@ -2,6 +2,7 @@ package com.uking.lottery;
 
 public class Lottery {
 	public static void main(String[] args) {
-		System.out.println("ÌåÓı²ÊÆ±-ÆßĞÇ²Ê");
+		System.out.println("ä½“è‚²å½©ç¥¨-ä¸ƒæ˜Ÿå½©");
+		System.out.println("è¯·é€‰æ‹©ä½ çš„å·ç ï¼š");
 	}
 }
